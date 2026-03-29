@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome: Inácio Silva Parreiras
-- Matricula: 915576
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Inácio Silva Parreiras <br>
+- Matricula: 915576 <br>
+- Proposta de projeto escolhida: Galeria de fotos <br>
+- Breve descrição sobre seu projeto: Uma galeria onde você faz o upload de suas fotos e coloca a data delas, assim você guarda elas no sistema e pode ver o site pra ver suas recordações. 
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
